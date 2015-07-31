@@ -138,10 +138,16 @@ body {
     position:absolute;
     padding:0px 0px 0px 0px;
     margin:0px 0px 0px 0px;
-    bottom:10px;
+    bottom:0px;
     width:100%;
     height:30px;   /* Height of the footer */
-    color:#FFFFFF;
-    font-size:12px;  
     background-color:#4B946A;
+}
+
+.footerP{
+    padding:5px 0px 0px 10px;
+    margin:0px 0px 0px 0px;
+    color:#FFFFFF;
+    font-weight:normal;
+    font-size:18px;
 }
